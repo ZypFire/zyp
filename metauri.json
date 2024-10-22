@@ -2,5 +2,9 @@
     "name": "Zyphyra",
     "symbol": "ZYP",
     "description": "Next-gen Crypto Social Media",
-    "image": "https://github.com/ZypFire/zyp/blob/main/z2.png"
+    "image": "https://github.com/ZypFire/zyp/blob/main/z2.png",
+    "extensions":{
+      "twitter":"https://x.com/zyphyra_",
+      "telegram":"https://t.me/zyphyra_sol"
+    }
 }
